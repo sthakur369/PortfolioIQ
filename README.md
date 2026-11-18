@@ -1,6 +1,10 @@
 
 # PortfolioIQ
 
+<p align="center">
+  <img src="assets/banner.png" alt="PortfolioIQ - AI Financial Data Assistant" width="100%">
+</p>
+
 **Your financial data is complex. Querying it shouldn't be.**
 
 PortfolioIQ is an AI-powered financial data assistant that lets financial professionals ask questions about complex financial datasets in plain English instead of writing SQL.
