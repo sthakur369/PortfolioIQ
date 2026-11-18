@@ -9,7 +9,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(BASE_DIR / ".env")
 
 # 3. Safely join the paths to reach the data folder
-DB_PATH = BASE_DIR / "database" / "aris_lite.db"
+DB_PATH = BASE_DIR / "database" / "portfolioiq_synthetic_data.db"
 
 # 4. Read the loaded variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
